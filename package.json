@@ -11,6 +11,7 @@
     "yeet": "echo yeeting && git add . && git commit -m \"yeeting\" && git push && echo yeeted"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.10",
     "@react-navigation/drawer": "^6.4.1",
     "@react-navigation/native": "^6.0.10",
     "@react-navigation/native-stack": "^6.6.2",
